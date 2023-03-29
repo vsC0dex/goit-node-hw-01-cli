@@ -1,2 +1,1 @@
-# goit-node-hw-01-cli
-goit-node-hw-01-cli
+Sreenshots folder 'Monosnap' - https://monosnap.com/list/64246f37dfa913b9923a8311
